@@ -22,34 +22,37 @@ This repository will showcase my Data Analytics skills, combining those listed a
 
 ## Table of Contents
 
-A. Data Analytics:
-- Programming Languages
+### A. Data Analytics:
+### Programming Languages
   - [Python]()
-    - Credit Card Data
+    - Credit Card Customer Data Analysis
   - [SQL]()
     - Ecommerce
   - [R]()
     - Walmart Stocks
 
-- Data Visualization Tools
+### Data Visualization Tools
   - [Tableau]()
   - [PowerBI]()
   - [Matplotlib]()
   - [Seaborn]()
 
-B. What's to Come
-- Big Data Processing
+### B. What's to Come
+  - Big Data Processing
   - Apache Spark 
   - Apache Hadoop 
 
-- Cloud-Based Data Warehousing
+### Cloud-Based Data Warehousing
   - Google Big Query 
   - Amazon Redshift
   - Microsoft Azure Synapse Analytics
 
-- Machine Learning and Deep Learning
+### Machine Learning and Deep Learning
   - Scikit-learn
   - TensorFlow
   - PyTorch
 
--->
+## Projects
+### Credit Card Customer Data Analysis
+Project Goals:
+The primary goals of this project are to thoroughly understand customer spending behavior by identifying key patterns and relationships within the dataset, improve data quality through comprehensive cleaning and preprocessing to ensure accurate analysis, determine the significant factors influencing spending amounts across various categories such as card type, expense type, and time, create insightful visualizations that effectively communicate spending trends, and ultimately deliver actionable insights that can inform strategic business decisions related to customer spending.
