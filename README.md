@@ -3,16 +3,16 @@
 I'm a driven professional, fueled by a passion for uncovering insights and facing the ever-evolving challenges of the digital landscape. My career has been a thrilling adventure, navigating diverse roles from Business Development to Web and Digital Project Management. This journey has honed my ability to not only lead successful projects and drive online growth but also to extract meaningful narratives from complex datasets, transforming raw numbers into actionable strategies. I thrive on the intellectual challenge of deciphering user behavior and market trends, much like an explorer charting unknown territories.
 
 ## Skills
-#### A. Data-Informed Project Management 
+#### Data-Informed Project Management 
 I build projects, data-driven, avoiding roadblocks with analytical foresight.
 
-#### B. Strategic Data Visualization & Interpretation
+#### Strategic Data Visualization & Interpretation
 I turn data chaos into visual gold, crafting stories for strategic wins.
 
-#### C. Client-Centric Data Communication
+#### Client-Centric Data Communication
 I translate tech-speak into client insights, building bridges with data clarity.
 
-#### D. A/B Testing and Optimization
+#### A/B Testing and Optimization
 I experiment and optimize, using data to navigate to peak performance.
 Forecasting and Predictive Analytics: I predict trends, seeing the future in data's crystal ball.
 
@@ -54,5 +54,31 @@ This repository will showcase my Data Analytics skills, combining those listed a
 
 ## Projects
 #### Credit Card Customer Data Analysis
-Project Goals:
+##### Project Goals:
 The primary goals of this project are to thoroughly understand customer spending behavior by identifying key patterns and relationships within the dataset, improve data quality through comprehensive cleaning and preprocessing to ensure accurate analysis, determine the significant factors influencing spending amounts across various categories such as card type, expense type, and time, create insightful visualizations that effectively communicate spending trends, and ultimately deliver actionable insights that can inform strategic business decisions related to customer spending.
+
+##### Skills:
+A. Data Cleaning and Preprocessing:
+- Handling missing values (imputation, deletion)
+- Duplicate removal
+- Data type conversion
+- Text standardization
+- Outlier detection and removal (IQR)
+  
+B. Exploratory Data Analysis (EDA):
+- Calculating summary statistics (mean, median, standard deviation)
+- Data aggregation and grouping
+- Data ordering
+
+C. Data Visualization:
+- Creating histograms, time series plots, and bar charts using libraries like Seaborn and Matplotlib
+- Interpreting and communicating insights from visualizations
+
+D. Statistical Analysis:
+- Basic understanding of mean, median, standard deviation, and data distributions
+
+E. Programming:
+- Proficiency in Python and pandas for data manipulation
+
+##### Technologies:
+Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
