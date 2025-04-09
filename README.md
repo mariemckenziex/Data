@@ -24,29 +24,29 @@ This repository will showcase my Data Analytics skills, combining those listed a
 
 A. Data Analytics:
 1. Programming Languages
-- [Python]()
-- [SQL]()
-- [R]()
+  - [Python]()
+  - [SQL]()
+  - [R]()
 
 2. Data Visualization Tools
-- [Tableau]()
-- [PowerBI]()
-- [Matplotlib]()
-- [Seaborn]()
+  - [Tableau]()
+  - [PowerBI]()
+  - [Matplotlib]()
+  - [Seaborn]()
 
 B. What's to Come
 1. Big Data Processing
-- Apache Spark 
-- Apache Hadoop 
+  - Apache Spark 
+  - Apache Hadoop 
 
 2. Cloud-Based Data Warehousing
-- Google Big Query 
-- Amazon Redshift
-- Microsoft Azure Synapse Analytics
+  - Google Big Query 
+  - Amazon Redshift
+  - Microsoft Azure Synapse Analytics
 
 3. Machine Learning and Deep Learning
-- Scikit-learn
-- TensorFlow
-- PyTorch
+  - Scikit-learn
+  - TensorFlow
+  - PyTorch
 
 -->
