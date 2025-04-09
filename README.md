@@ -17,11 +17,11 @@ This repository will showcase my Data Analytics skills, combining those listed a
 ### A. Data Analytics:
 #### Programming Languages
   - Python
-    - (Credit Card Customer Data Analysis)[https://github.com/mariemckenziex/Data/blob/main/CreditCardDatAnalysis.ipynb]
+    - [Credit Card Customer Data Analysis](https://github.com/mariemckenziex/Data/blob/main/CreditCardDatAnalysis.ipynb)
   - SQL
-    - (Ecommerce)[coming soon]
+    - [Ecommerce][coming soon]
   - R
-    - (Walmart Stocks)[coming soon]
+    - [Walmart Stocks][coming soon]
 
 ### B. What's to Come (coming soon)
   - Big Data Processing
