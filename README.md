@@ -18,7 +18,6 @@ This repository will showcase my Data Analytics skills, combining those listed a
 #### Programming Languages
   - Python
     - [Credit Card Customer Data Analysis](#credit-card-customer-data-analysis)
-    - (https://github.com/mariemckenziex/Data/blob/main/CreditCardDatAnalysis.ipynb)
   - SQL
     - [Ecommerce][coming soon]
   - R
@@ -42,6 +41,7 @@ This repository will showcase my Data Analytics skills, combining those listed a
 ## Projects
 #### Credit Card Customer Data Analysis
 ##### Code:
+[Credit Card Customer Data Analysis](https://github.com/mariemckenziex/Data/blob/main/CreditCardDatAnalysis.ipynb)
 
 ##### Project Goals:
 The primary goals of this project are to thoroughly understand customer spending behavior by identifying key patterns and relationships within the dataset, improve data quality through comprehensive cleaning and preprocessing to ensure accurate analysis, determine the significant factors influencing spending amounts across various categories such as card type, expense type, and time, create insightful visualizations that effectively communicate spending trends, and ultimately deliver actionable insights that can inform strategic business decisions related to customer spending.
