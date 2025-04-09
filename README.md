@@ -21,7 +21,7 @@ Explore my resume [here](link.com)
 This repository will showcase my Data Analytics skills, combining those listed above with data cleaning, manipulation, analysis, and visualizations as well as complex high-dimensional transformations.
 
 ## Table of Contents
-## Projects
+Projects
 A. Data Analytics:
 1. Programming Languages
 - [Python]()
