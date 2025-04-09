@@ -16,12 +16,12 @@ This repository will showcase my Data Analytics skills, combining those listed a
 
 ### A. Data Analytics:
 #### Programming Languages
-  - [Python]()
-    - Credit Card Customer Data Analysis
-  - [SQL]()
-    - Ecommerce (coming soon)
-  - [R]()
-    - Walmart Stocks (coming soon)
+  - Python
+    - (Credit Card Customer Data Analysis]()
+  - SQL
+    - (Ecommerce)[coming soon]
+  - R
+    - (Walmart Stocks)[coming soon]
 
 ### B. What's to Come (coming soon)
   - Big Data Processing
