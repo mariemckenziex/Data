@@ -82,3 +82,14 @@ E. Programming:
 
 ##### Technologies:
 Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+
+##### Findings:
+1. Overall spending patterns indicate a concentration of spending frequency within the 831-941 range. This suggests a common spending level or bracket among the observed transactions. A spending figure of $350,000 is the least recurring, implying a very high-value but rare transaction.
+
+2. Spending changes over time presents a volatile spending pattern over approximately a year and a half, from November 2013 to May 2015, with spending amounts fluctuating significantly between roughly $100,000 and $250,000. While a central tendency appears around the $150,000 to $175,000 range, the data exhibits frequent peaks and troughs, suggesting an unstable spending behavior rather than a consistent upward or downward trend.
+
+3. Spending based on card type exhibits a close range, with Platinum cardholders demonstrating the highest average spend at $157,493.83, followed closely by Signature at $157,133.72, then Silver at $156,371.03, and Gold with the lowest average spend at $154,631.62. Spending behavior doesn't significantly vary among these card types.
+
+4. Spending across different expense categories illustrates the average distribution across six distinct expense types: Bills, Entertainment, Food, Fuel, Grocery, and Travel. Notably, the "Bills" category exhibits the highest mean spending. Travel" displays the lowest indicating potential areas for budget analysis and financial planning
+The remaining categories, Entertainment, Food, Fuel, and Grocery, show intermediate spending levels, falling between these two extremes
+
