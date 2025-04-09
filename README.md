@@ -17,7 +17,7 @@ This repository will showcase my Data Analytics skills, combining those listed a
 ### A. Data Analytics:
 #### Programming Languages
   - Python
-    - (Credit Card Customer Data Analysis](link.com)
+    - (Credit Card Customer Data Analysis)[https://github.com/mariemckenziex/Data/blob/main/CreditCardDatAnalysis.ipynb]
   - SQL
     - (Ecommerce)[coming soon]
   - R
