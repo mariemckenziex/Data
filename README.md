@@ -3,7 +3,7 @@
 I'm a driven professional, fueled by a passion for uncovering insights and facing the ever-evolving challenges of the digital landscape. My career has been a thrilling adventure, navigating diverse roles from Business Development to Web and Digital Project Management. This journey has honed my ability to not only lead successful projects and drive online growth but also to extract meaningful narratives from complex datasets, transforming raw numbers into actionable strategies. I thrive on the intellectual challenge of deciphering user behavior and market trends, much like an explorer charting unknown territories.
 
 ## Skills
-- Data-Informed Project Management, Strategic Data Visualization & Interpretation, Client-Centric Data Communication, A/B Testing and Optimization, Forecasting and Predictive Analytics
+- Data-Informed Project Management, Strategic Data Visualization & Interpretation, Client-Centric Data Communication, A/B Testing and Optimization, Forecasting and Predictive Analytics, MySQL, PowerBi
 
 ## Data Visualization Tools
   - Tableau, PowerBI, Matplotlib, Seaborn, Jupyter
