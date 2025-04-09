@@ -25,8 +25,11 @@ This repository will showcase my Data Analytics skills, combining those listed a
 A. Data Analytics:
 - Programming Languages
   - [Python]()
+    - Credit Card Data
   - [SQL]()
+    - Ecommerce
   - [R]()
+    - Walmart Stocks
 
 - Data Visualization Tools
   - [Tableau]()
