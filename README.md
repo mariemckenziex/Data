@@ -8,7 +8,7 @@ I'm a driven professional, fueled by a passion for uncovering insights and facin
 ## Data Visualization Tools
   - Tableau, PowerBI, Matplotlib, Seaborn, Jupyter
     
-Explore my resume [here](link.com) 
+Explore my resume [here](https://github.com/mariemckenziex/Data/blob/main/Marie%20McKenzie%20-%20DataCV.pdf)) 
 
 This repository will showcase my Data Analytics skills, combining those listed above with data cleaning, manipulation, analysis, and visualizations as well as complex high-dimensional transformations.
 
