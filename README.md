@@ -1,16 +1,52 @@
-## Hi there 👋
+## Greetings! Let's wrangle some data and see what adventures await.
 
-<!--
-**mariemckenziex/mariemckenziex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a driven professional, fueled by a passion for uncovering insights and facing the ever-evolving challenges of the digital landscape. My career has been a thrilling adventure, navigating diverse roles from Business Development to Web and Digital Project Management. This journey has honed my ability to not only lead successful projects and drive online growth but also to extract meaningful narratives from complex datasets, transforming raw numbers into actionable strategies. I thrive on the intellectual challenge of deciphering user behavior and market trends, much like an explorer charting unknown territories.
 
-Here are some ideas to get you started:
+## Skills
+## Data-Informed Project Management 
+I build projects, data-driven, avoiding roadblocks with analytical foresight.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Strategic Data Visualization & Interpretation
+I turn data chaos into visual gold, crafting stories for strategic wins.
+
+## Client-Centric Data Communication
+I translate tech-speak into client insights, building bridges with data clarity.
+
+## A/B Testing and Optimization
+I experiment and optimize, using data to navigate to peak performance.
+Forecasting and Predictive Analytics: I predict trends, seeing the future in data's crystal ball.
+
+Explore my resume [here](link.com) 
+
+This repository will showcase my Data Analytics skills, combining those listed above with data cleaning, manipulation, analysis, and visualizations as well as complex high-dimensional transformations.
+
+## Table of Contents
+## Projects
+A. Data Analytics:
+1. Programming Languages
+- [Python]()
+- [SQL]()
+- [R]()
+
+2. Visualization Tools
+- [Tableau]()
+- [PowerBI]()
+- [Matplotlib]()
+- [Seaborn]()
+
+B. What's to Come
+1. Big Data Processing
+- Apache Spark 
+- Apache Hadoop 
+
+2. Cloud-Based Data Warehousing
+- Google Big Query 
+- Amazon Redshift
+- Microsoft Azure Synapse Analytics
+
+3. Machine Learning and Deep Learning
+- Scikit-learn
+- TensorFlow
+- PyTorch
+
 -->
