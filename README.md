@@ -19,7 +19,7 @@ This repository will showcase my Data Analytics skills, combining those listed a
   - Python
     - [Credit Card Customer Data Analysis](#credit-card-customer-data-analysis)
   - R
-    - [Walmart Stocks][#walmart-stocks-data-analysis]
+    - [Walmart Stocks](#walmart-stocks-data-analysis)
   - SQL
     - [Ecommerce][coming soon]
   
