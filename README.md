@@ -18,11 +18,11 @@ This repository will showcase my Data Analytics skills, combining those listed a
 #### Programming Languages
   - Python
     - [Credit Card Customer Data Analysis](#credit-card-customer-data-analysis)
+  - R
+    - [Walmart Stocks][#walmart-stocks-data-analysis]
   - SQL
     - [Ecommerce][coming soon]
-  - R
-    - [Walmart Stocks][coming soon]
-
+  
 ### B. What's to Come (coming soon)
   - Big Data Processing
   - Apache Spark 
@@ -82,3 +82,9 @@ Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
 4. Spending across different expense categories illustrates the average distribution across six distinct expense types: Bills, Entertainment, Food, Fuel, Grocery, and Travel. Notably, the "Bills" category exhibits the highest mean spending. Travel" displays the lowest indicating potential areas for budget analysis and financial planning
 The remaining categories, Entertainment, Food, Fuel, and Grocery, show intermediate spending levels, falling between these two extremes
 
+#### Walmart Stocks Data Analysis
+##### Code:
+[Walmart Stocks Data Analysis]
+(https://github.com/mariemckenziex/Data/blob/main/WalmartSP.ipynb)
+
+##### Project 
