@@ -102,7 +102,7 @@ B. Exploratory Data Analysis (EDA):
 
 
 C. Data Visualization:
-- Data Visualization of 'Volume'
+- Data Visualization of Volume
 
 D. Statistical Analysis:
 - Total Volume Calculation
@@ -116,5 +116,20 @@ D. Statistical Analysis:
 E. Programming:
 - Proficiency in R and pandas for data manipulation
 
+
+##### Findings:
+The assessment performed correlation analysis between opening and closing prices, a hypothesis test on the average daily price change, modeled the long-term price trend using linear regression, visualized price volatility using the standard deviation of returns, calculated and visualized the On-Balance Volume, calculated and visualized Bollinger Bands, and analyzed the percentage change in stock price on a monthly basis.
+
+1. The analysis reveals an extremely tight and statistically significant relationship between Walmart's opening stock price and its closing price on any given trading day. This near-perfect positive correlation suggests that the opening price is an exceptionally strong indicator of where the stock price will end the trading day. Essentially, if the stock opens higher, it is almost certain to close higher, and vice versa, with very little deviation. This indicates high predictability of the closing price based on the opening price within the same trading session.
+
+2. Walmart's average daily price change (the difference between the closing and opening price) shows that while there's a slight positive average change of approximately $0.0035, this daily movement is not statistically significant at the conventional 5% level. Because the 95% confidence interval for this average change includes zero, we cannot confidently say that the price consistently tends to either increase or decrease from its opening value by the end of the day. This suggests that, on average, the daily price fluctuation around the opening price is relatively small and doesn't exhibit a strong directional bias.
+
+3. On-Balance Volume (OBV) Calculation and Visualization: The increasing OBV trend suggests sustained buying interest, potentially preceding or confirming price increases
+
+4. Bollinger Bands Calculation and Visualization: The data shows the stock price of a single entity (given the consistent 'Stock Splits' of 0.0 and 'Dividends' of 0.0 within this timeframe) fluctuating within a relatively narrow range during January 2025. The 'Open', 'High', 'Low', and 'Close' prices are all clustered between approximately 90 and 94, suggesting a period of moderate price stability within this short window. The 'Volume' column indicates varying levels of trading activity day-to-day, ranging from 1.33e+07 to 2.32e+07 shares traded. This suggests consistent market interest in the stock, but without a longer historical context, it's difficult to determine if these volume levels are high, low, or typical.
+
+5. Relative Strength Index (RSI) and Moving Averages: The data shows a discernible upward trend in the stock price. Starting in late January around the mid-90s, the closing price generally climbs, reaching the low 100s by early February and then continuing to fluctuate mostly in the 102-105 range in mid-February. There's a noticeable dip around February 20th before a partial recovery. The trading volume remains variable, ranging from approximately 1.1e+07 to 3.5e+07 shares. The highest volume observed in this snippet occurs around the price dip in late February, which could indicate increased selling pressure or market reaction to an event not visible in this data alone.
+
+6. Monthly Percentage Change: The initial monthly performance shows significant volatility and a lack of sustained positive growth. Several months have experienced substantial losses, highlighting a potentially turbulent early phase for the company's publicly traded shares. The early months (August to December 1972) show significant fluctuations in Walmart's stock price. Both substantial losses (e.g., -3.03% in August, -9.69% in September, -4.45% in November) and notable gains (e.g., +5.74% in October, +5.34% in December). This suggests a period of high initial volatility for the stock. This pattern of significant monthly swings continues into 1973. January 1973 experienced a sharp decline of -14.4%, followed by smaller gains in February (+2.48%) and a very substantial loss in March (-26.0%). The subsequent months of April and May 1973 show smaller percentage decreases (-2.19% and -1.13%, respectively), indicating a potential slowing down of the sharp downward trend seen in March.
 
 
