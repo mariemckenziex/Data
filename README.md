@@ -84,10 +84,6 @@ The remaining categories, Entertainment, Food, Fuel, and Grocery, show intermedi
 
 #### Walmart Stocks Data Analysis
 ##### Code:
-[Walmart Stocks Data Analysis]
-(https://github.com/mariemckenziex/Data/blob/main/WalmartSP.ipynb)
-
-
 [Walmart Stocks Data Analysis](https://github.com/mariemckenziex/Data/blob/main/WalmartSP.ipynb)
 
 ##### Project Goals:
