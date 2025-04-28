@@ -87,4 +87,35 @@ The remaining categories, Entertainment, Food, Fuel, and Grocery, show intermedi
 [Walmart Stocks Data Analysis]
 (https://github.com/mariemckenziex/Data/blob/main/WalmartSP.ipynb)
 
-##### Project 
+##### Project Goals:
+The primary goal of this project is to conduct an initial exploration and cleaning of the Walmart stock price dataset, importing the data into R, previewing its structure, examining column data types, and addressing data quality issues, missing values, duplicates, and leading/trailing spaces. The project aims to perform an analysis of trading by calculating total volume and visualizing the yearly trend of average daily volume, as well as identifying the daily highest opening and lowest closing prices.
+
+##### Skills:
+A. Data Cleaning and Preprocessing:
+- Handling missing values 
+- Duplicate removal
+- Data type conversion
+- Leading and Trailing Spaces
+
+B. Exploratory Data Analysis (EDA):
+- Summary Statistics
+- Data Structure Examination
+
+
+C. Data Visualization:
+- Data Visualization of 'Volume'
+
+D. Statistical Analysis:
+- Total Volume Calculation
+- Yearly Average Daily Volume
+- Basic Analysis of Price Extremes
+- one-sample t-test
+- Correlation test
+- ANOVA
+- Linear regression
+
+E. Programming:
+- Proficiency in R and pandas for data manipulation
+
+
+
